@@ -8,7 +8,6 @@ body {
 	color: #000000;
 }
 
-/* The width property has been changed to max-width */
 .content-wrapper {
 	max-width: 1200px;
 	width: 90%;
@@ -48,7 +47,7 @@ p {
 }
 
 /******** HEADER STYLES ********/
-/* The widths are in a percentage! */
+
 header {
 	display: flex;
 	justify-content: center;
@@ -91,7 +90,7 @@ header nav ul li a {
 
 /********  MAIN STYLES ********/
 /******** TOP SECTION ********/
-/* The widths are in a percentage! */
+
 .main-image img {
 	width: 100%;
 	border-top: 3px solid #77A466;
@@ -129,8 +128,6 @@ header nav ul li a {
 
 .section-two {
 	width: 100%;
-	border-top: 5px solid #EEE;
-	border-bottom: 5px solid #EEE;
 }
 
 .section-three {
@@ -153,7 +150,7 @@ header nav ul li a {
 }
 
 /******** FOOTER STYLES ********/
-/* The widths are in a percentage! */
+
 footer {
 	margin-top: 8px;
 	display: flex;
